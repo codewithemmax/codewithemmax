@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Emmax
 
-<!--
-**codewithemmax/codewithemmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Software Engineer** specializing in **Python** and the **MERN stack** (MongoDB, Express.js, React, Node.js). I love building scalable web applications and bringing ideas to life through code.
 
-Here are some ideas to get you started:
+## 🚀 Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, JavaScript (ES6+)
+- **Frameworks:** React, Node.js, Express.js
+- **Databases:** MongoDB, SQL
+- **Other:** REST APIs, JWT Auth, Git, Docker
+
+## 🛒 Featured Project
+
+**E-Commerce App**  
+A full-stack web application providing seamless online shopping experiences, secure transactions, and modern UI/UX.
+
+## 🌐 Connect with Me
+
+- [Twitter/X](https://x.com/emmaskyrem?t=ZuuUSp9fWmVgxGimzg19hA&s=09)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.”  
+> — Cory House
