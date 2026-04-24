@@ -17,6 +17,8 @@ A full-stack web application providing seamless online shopping experiences, sec
 ## 🌐 Connect with Me
 
 - [Twitter/X](https://x.com/emmaskyrem?t=ZuuUSp9fWmVgxGimzg19hA&s=09)
+- [linkedIn](https://www.linkedin.com/in/emmanuel-olayinka-058118384/)
+- [Portfolio](https://olayinka-emmanuel-portfolio.vercel.app/)
 
 ---
 
