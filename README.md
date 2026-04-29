@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Emmax
+# 👋 Hi, I'm Emmanuel Olayinka
 
 I'm a passionate **Software Engineer** specializing in **Python** and the **MERN stack** (MongoDB, Express.js, React, Node.js). I love building scalable web applications and bringing ideas to life through code.
 
